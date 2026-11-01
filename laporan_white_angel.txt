@@ -1,0 +1,4 @@
+BUKTI BUG:
+URL: https://httpbin.org/redirect-to?url=https://evil.com
+location: https://evil.com
+Found by White Angel - Merauke

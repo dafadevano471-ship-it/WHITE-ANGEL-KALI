@@ -1,0 +1,16 @@
+#!/bin/sh
+unset NIX_PATH NIX_PROFILES NIX_SSL_CERT_FILE GTK_PATH GDK_PIXBUF_MODULE_FILE GIO_MODULE_DIR SESSION_MANAGER DBUS_SESSION_BUS_ADDRESS
+
+export XDG_RUNTIME_DIR=/tmp/runtime-kali
+export GDK_PIXBUF_MODULE_FILE=/usr/lib/aarch64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+export NO_AT_BRIDGE=1
+export GTK_ICON_THEME=Adwaita
+
+mkdir -p /tmp/runtime-kali
+chmod 700 /tmp/runtime-kali
+
+xrdb $HOME/.Xresources 2>/dev/null
+xsetroot -solid "#2c2c2c" &
+vncconfig -iconic &
+dbus-launch --exit-with-session xfce4-session &
+

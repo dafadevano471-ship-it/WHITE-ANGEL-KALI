@@ -1,0 +1,1555 @@
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 18:55:33 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd :1 to connect to the VNC server.
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+/usr/bin/startxfce4: X server already running on display :1
+xrdb: Connection refused
+xrdb: Can't open display ':1'
+dbus-update-activation-environment: error: unable to connect to D-Bus: Failed to connect to socket /tmp/dbus-et9LdVr83P: No such file or directory
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 18:57:09 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd :1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+/usr/bin/startxfce4: X server already running on display :1
+xrdb: Connection refused
+xrdb: Can't open display ':1'
+dbus-update-activation-environment: error: unable to connect to D-Bus: Failed to connect to socket /tmp/dbus-k2KCwnstaa: No such file or directory
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 18:59:58 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Sun Oct  4 19:00:05 2026
+ Connections: Accepted: 127.0.0.1::57202
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Sun Oct  4 19:01:14 2026
+ VNCSConnST:  Closing 127.0.0.1::57202: Server shutdown
+ EncodeManager: Framebuffer updates: 7
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 9 rects, 913.534 kpixels
+ EncodeManager:            144 B (1:25376.7 ratio)
+ EncodeManager:     Bitmap RLE: 1 rects, 1.482 kpixels
+ EncodeManager:                 146 B (1:40.6849 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 8.288 kpixels
+ EncodeManager:                  406 B (1:81.7143 ratio)
+ EncodeManager:   Total: 12 rects, 923.304 kpixels
+ EncodeManager:          696 B (1:5306.55 ratio)
+ ComparingUpdateTracker: 2.34 kpixels in / 1.704 kpixels out
+ ComparingUpdateTracker: (1:1.37324 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 9769... success!
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 19:48:07 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd :1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+/usr/bin/startxfce4: X server already running on display :1
+xrdb: Connection refused
+xrdb: Can't open display ':1'
+dbus-update-activation-environment: error: unable to connect to D-Bus: Failed to connect to socket /tmp/dbus-kNHJLx2vBx: No such file or directory
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 19:49:15 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd :1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+/usr/bin/startxfce4: X server already running on display :1
+xrdb: Connection refused
+xrdb: Can't open display ':1'
+dbus-update-activation-environment: error: unable to connect to D-Bus: Failed to connect to socket /tmp/dbus-b8RUuFtsSz: No such file or directory
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 19:49:31 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd :1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+/usr/bin/startxfce4: X server already running on display :1
+xrdb: Connection refused
+xrdb: Can't open display ':1'
+dbus-update-activation-environment: error: unable to connect to D-Bus: Failed to connect to socket /tmp/dbus-yz6gh3PoMy: No such file or directory
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 19:50:18 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd :1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+/usr/bin/startxfce4: X server already running on display :1
+xrdb: Connection refused
+xrdb: Can't open display ':1'
+dbus-update-activation-environment: error: unable to connect to D-Bus: Failed to connect to socket /tmp/dbus-Ll0d2LFD3k: Connection refused
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 19:54:20 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Sun Oct  4 19:54:26 2026
+ Connections: Accepted: 127.0.0.1::45032
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Sun Oct  4 19:55:57 2026
+ Input:       Added keysym XK_[unknown keysym] (0x000a) to keycode 230
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Sun Oct  4 19:56:12 2026
+ VNCSConnST:  Closing 127.0.0.1::45032: Server shutdown
+ EncodeManager: Framebuffer updates: 14
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 17 rects, 915.966 kpixels
+ EncodeManager:            272 B (1:13470.8 ratio)
+ EncodeManager:     Bitmap RLE: 29 rects, 41.58 kpixels
+ EncodeManager:                 3.34766 KiB (1:48.6196 ratio)
+ EncodeManager:     Indexed RLE: 6 rects, 13.248 kpixels
+ EncodeManager:                  958 B (1:55.3904 ratio)
+ EncodeManager:   Total: 52 rects, 970.794 kpixels
+ EncodeManager:          4.54883 KiB (1:833.791 ratio)
+ ComparingUpdateTracker: 398.424 kpixels in / 49.194 kpixels out
+ ComparingUpdateTracker: (1:8.09904 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 32753... success!
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 19:57:19 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Sun Oct  4 19:57:49 2026
+ Connections: Accepted: 127.0.0.1::56958
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Sun Oct  4 19:57:59 2026
+ Input:       Added keysym XK_[unknown keysym] (0x000a) to keycode 230
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Sun Oct  4 20:01:00 2026
+ VNCSConnST:  Closing 127.0.0.1::56958: Server shutdown
+ EncodeManager: Framebuffer updates: 116
+ EncodeManager:   CopyRect:
+ EncodeManager:     Copies: 2 rects, 138.762 kpixels
+ EncodeManager:             32 B (1:17346 ratio)
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 530 rects, 4.37926 Mpixels
+ EncodeManager:            8.28125 KiB (1:2066.44 ratio)
+ EncodeManager:     Bitmap RLE: 1.019 krects, 2.0043 Mpixels
+ EncodeManager:                 50.2432 KiB (1:156.066 ratio)
+ EncodeManager:     Indexed RLE: 416 rects, 2.22277 Mpixels
+ EncodeManager:                  172.958 KiB (1:50.2293 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 6 rects, 44.63 kpixels
+ EncodeManager:                  21.6201 KiB (1:8.06685 ratio)
+ EncodeManager:   Total: 1.973 krects, 8.78971 Mpixels
+ EncodeManager:          253.134 KiB (1:135.73 ratio)
+ ComparingUpdateTracker: 20.9306 Mpixels in / 7.70768 Mpixels out
+ ComparingUpdateTracker: (1:2.71555 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 5996... success!
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:02:14 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth,TLSVnc -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+/usr/bin/startxfce4: X server already running on display :1
+xrdb: Connection refused
+xrdb: Can't open display ':1'
+dbus-update-activation-environment: error: unable to connect to D-Bus: Failed to connect to socket /tmp/dbus-9tJsRJFIbx: No such file or directory
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:02:45 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Sun Oct  4 20:03:20 2026
+ Connections: Accepted: 127.0.0.1::56204
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Sun Oct  4 20:04:15 2026
+ Input:       Added keysym XK_[unknown keysym] (0x000a) to keycode 230
+xterm: 
+Sun Oct  4 20:06:40 2026
+fatal IO error 38 (Function not implemented) or KillClient on X server ":1"
+ Socket:      Failed to flush remaining socket data on close: write: Function
+              not implemented (38)
+ VNCSConnST:  Closing 127.0.0.1::56204: write: Function not implemented (38)
+ EncodeManager: Framebuffer updates: 128
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 505 rects, 4.28346 Mpixels
+ EncodeManager:            7.89062 KiB (1:2121.27 ratio)
+ EncodeManager:     Bitmap RLE: 923 rects, 1.65589 Mpixels
+ EncodeManager:                 44.1934 KiB (1:146.609 ratio)
+ EncodeManager:     Indexed RLE: 544 rects, 2.59574 Mpixels
+ EncodeManager:                  206.516 KiB (1:49.1294 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 9 rects, 54.945 kpixels
+ EncodeManager:                  33.6143 KiB (1:6.38819 ratio)
+ EncodeManager:   Total: 1.981 krects, 8.59004 Mpixels
+ EncodeManager:          292.214 KiB (1:114.909 ratio)
+ Connections: Closed: 127.0.0.1::56204
+ ComparingUpdateTracker: 20.8726 Mpixels in / 7.63427 Mpixels out
+ ComparingUpdateTracker: (1:2.73407 ratio)
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xtigervnc (xorg_backtrace+0x68) [0x30001c9288]
+(EE) 1: /usr/bin/Xtigervnc (0x3000000000+0x1cd640) [0x30001cd640]
+(EE) 2: linux-vdso.so.1 (__kernel_rt_sigreturn+0x0) [0x7573238848]
+(EE) 3: /usr/lib/aarch64-linux-gnu/libc.so.6 (0x75722c0000+0x85f64) [0x7572345f64]
+(EE) 4: /usr/lib/aarch64-linux-gnu/libc.so.6 (0x75722c0000+0x85f90) [0x7572345f90]
+(EE) 5: /usr/lib/aarch64-linux-gnu/libc.so.6 (accept+0x24) [0x75723b3f64]
+(EE) 6: /usr/bin/Xtigervnc (_ZN7network14SocketListener6acceptEv+0x24) [0x30001ecea4]
+(EE) 7: /usr/bin/Xtigervnc (_ZN14XserverDesktop19handleListenerEventEiPNSt7__cxx114listIPN7network14SocketListenerESaIS4_EEEPN3rfb9VNCServerE+0x58) [0x30001e9c98]
+(EE) 8: /usr/bin/Xtigervnc (_ZN14XserverDesktop17handleSocketEventEibb+0x34) [0x30001e9ee4]
+(EE) 9: /usr/bin/Xtigervnc (ospoll_wait+0x9c) [0x30001ce1bc]
+(EE) 10: /usr/bin/Xtigervnc (WaitForSomething+0x164) [0x30001c6508]
+(EE) 11: /usr/bin/Xtigervnc (Dispatch+0xa0) [0x3000174ba4]
+(EE) 12: /usr/bin/Xtigervnc (dix_main+0x3cc) [0x300017a1ec]
+(EE) 13: /usr/lib/aarch64-linux-gnu/libc.so.6 (0x75722c0000+0x22f1c) [0x75722e2f1c]
+(EE) 14: /usr/lib/aarch64-linux-gnu/libc.so.6 (__libc_start_main+0x9c) [0x75722e305c]
+(EE) 15: /usr/bin/Xtigervnc (_start+0x30) [0x300007e3b0]
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Caught signal 31 (Bad system call). Server aborting
+(EE) 
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:08:07 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Sun Oct  4 20:08:11 2026
+ Connections: Accepted: 127.0.0.1::51550
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Sun Oct  4 20:10:13 2026
+ Input:       Added keysym XK_lacute (0x01e5) to keycode 230
+
+Sun Oct  4 20:11:45 2026
+ Input:       Added keysym XK_[unknown keysym] (0x000a) to keycode 222
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Sun Oct  4 20:16:06 2026
+ VNCSConnST:  Closing 127.0.0.1::51550: Server shutdown
+ EncodeManager: Framebuffer updates: 601
+ EncodeManager:   CopyRect:
+ EncodeManager:     Copies: 61 rects, 1.77232 Mpixels
+ EncodeManager:             976 B (1:7264.34 ratio)
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 548 rects, 5.40907 Mpixels
+ EncodeManager:            8.5625 KiB (1:2468.39 ratio)
+ EncodeManager:     Bitmap RLE: 1.075 krects, 990.103 kpixels
+ EncodeManager:                 52.2637 KiB (1:74.2425 ratio)
+ EncodeManager:     Indexed RLE: 436 rects, 1.71496 Mpixels
+ EncodeManager:                  152.582 KiB (1:43.9382 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 3 rects, 29.495 kpixels
+ EncodeManager:                  13.9355 KiB (1:8.27022 ratio)
+ EncodeManager:   Total: 2.123 krects, 9.91595 Mpixels
+ EncodeManager:          228.297 KiB (1:169.775 ratio)
+ ComparingUpdateTracker: 16.2265 Mpixels in / 7.20775 Mpixels out
+ ComparingUpdateTracker: (1:2.25126 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 13640... success!
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:16:37 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Sun Oct  4 20:17:30 2026
+ Connections: Accepted: 127.0.0.1::35426
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Sun Oct  4 20:18:24 2026
+ Input:       Added keysym XK_[unknown keysym] (0x000a) to keycode 230
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Sun Oct  4 20:20:09 2026
+ VNCSConnST:  Closing 127.0.0.1::35426: Server shutdown
+ EncodeManager: Framebuffer updates: 381
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 82 rects, 994.097 kpixels
+ EncodeManager:            1.28125 KiB (1:3031.53 ratio)
+ EncodeManager:     Bitmap RLE: 453 rects, 124.053 kpixels
+ EncodeManager:                 17.2734 KiB (1:28.3609 ratio)
+ EncodeManager:     Indexed RLE: 73 rects, 75.394 kpixels
+ EncodeManager:                  10.1289 KiB (1:29.1604 ratio)
+ EncodeManager:   Total: 608 rects, 1.19354 Mpixels
+ EncodeManager:          28.6836 KiB (1:162.79 ratio)
+ ComparingUpdateTracker: 1.05647 Mpixels in / 271.944 kpixels out
+ ComparingUpdateTracker: (1:3.8849 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 19538... success!
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:20:11 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Sun Oct  4 20:20:20 2026
+ Connections: Accepted: 127.0.0.1::44018
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+X connection to :1 broken (explicit kill or server shutdown).
+
+Sun Oct  4 20:21:07 2026
+ VNCSConnST:  Closing 127.0.0.1::44018: Server shutdown
+ EncodeManager: Framebuffer updates: 1
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 4 rects, 901.664 kpixels
+ EncodeManager:            64 B (1:56354.8 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 19.936 kpixels
+ EncodeManager:                  1.00879 KiB (1:77.2197 ratio)
+ EncodeManager:   Total: 6 rects, 921.6 kpixels
+ EncodeManager:          1.07129 KiB (1:3360.5 ratio)
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+/home/kali/.config/tigervnc/xstartup: 8: -iconic: not found
+/home/kali/.config/tigervnc/xstartup: 10: 0: not found
+The X session exited with status 127!
+Killing Xtigervnc process ID 20588... success!
+
+(xfwm4:21208): Gtk-WARNING **: 20:21:07.448: cannot open display: :1
+
+(xfdesktop:21210): Gtk-WARNING **: 20:21:07.454: cannot open display: :1
+
+(xfce4-panel:21209): Gtk-WARNING **: 20:21:07.454: cannot open display: :1
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:22:56 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+/home/kali/.config/tigervnc/xstartup: 22: 0: not found
+vncconfig: unable to open display ":1"
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+xsetroot:  unable to open display ':1'
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:23:38 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+/home/kali/.config/tigervnc/xstartup: 22: 0: not found
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+vncconfig: unable to open display ":1"
+xsetroot:  unable to open display ':1'
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:24:41 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+/home/kali/.config/tigervnc/xstartup: 22: 0: not found
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+vncconfig: unable to open display ":1"
+xsetroot:  unable to open display ':1'
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:25:49 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes vncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Sun Oct  4 20:26:14 2026
+ Connections: Accepted: 127.0.0.1::49106
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Sun Oct  4 20:27:16 2026
+ Input:       Added keysym XK_[unknown keysym] (0x000a) to keycode 230
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Sun Oct  4 20:34:43 2026
+ VNCSConnST:  Closing 127.0.0.1::49106: Server shutdown
+ EncodeManager: Framebuffer updates: 3142
+ EncodeManager:   CopyRect:
+ EncodeManager:     Copies: 9 rects, 519.012 kpixels
+ EncodeManager:             144 B (1:14417.8 ratio)
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 1.916 krects, 8.08435 Mpixels
+ EncodeManager:            29.9375 KiB (1:1055.6 ratio)
+ EncodeManager:     Bitmap RLE: 4.805 krects, 4.01018 Mpixels
+ EncodeManager:                 177.662 KiB (1:88.4885 ratio)
+ EncodeManager:     Indexed RLE: 2.357 krects, 8.55922 Mpixels
+ EncodeManager:                  695.422 KiB (1:48.1176 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 10 rects, 99.646 kpixels
+ EncodeManager:                  51.8037 KiB (1:7.51605 ratio)
+ EncodeManager:   Total: 9.097 krects, 21.2724 Mpixels
+ EncodeManager:          954.966 KiB (1:87.1255 ratio)
+ ComparingUpdateTracker: 44.5441 Mpixels in / 19.7827 Mpixels out
+ ComparingUpdateTracker: (1:2.25166 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 23376... success!
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:39:31 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Sun Oct  4 20:39:39 2026
+ Connections: Accepted: 127.0.0.1::36944
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Sun Oct  4 20:40:17 2026
+ Input:       Added keysym XK_[unknown keysym] (0x000a) to keycode 230
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Sun Oct  4 20:41:49 2026
+ VNCSConnST:  Closing 127.0.0.1::36944: Server shutdown
+ EncodeManager: Framebuffer updates: 40
+ EncodeManager:   CopyRect:
+ EncodeManager:     Copies: 8 rects, 254.904 kpixels
+ EncodeManager:             128 B (1:7966.5 ratio)
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 125 rects, 3.62539 Mpixels
+ EncodeManager:            1.95312 KiB (1:7251.54 ratio)
+ EncodeManager:     Bitmap RLE: 149 rects, 294.08 kpixels
+ EncodeManager:                 9.44531 KiB (1:121.806 ratio)
+ EncodeManager:     Indexed RLE: 103 rects, 633.942 kpixels
+ EncodeManager:                  54.3584 KiB (1:45.5779 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 4 rects, 30.62 kpixels
+ EncodeManager:                  14.1074 KiB (1:8.48179 ratio)
+ EncodeManager:   Total: 389 rects, 4.83894 Mpixels
+ EncodeManager:          79.9893 KiB (1:236.365 ratio)
+ ComparingUpdateTracker: 8.32135 Mpixels in / 3.64868 Mpixels out
+ ComparingUpdateTracker: (1:2.28065 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 30602... success!
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:41:51 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+vncconfig: unable to open display ":1"
+xsetroot:  unable to open display ':1'
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:44:13 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth,TLSVnc -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+vncconfig: unable to open display ":1"
+xsetroot:  unable to open display ':1'
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:45:45 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Sun Oct  4 20:47:04 2026
+ Connections: Accepted: 127.0.0.1::39844
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Sun Oct  4 20:48:53 2026
+ Input:       Added keysym XK_[unknown keysym] (0x000a) to keycode 230
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Sun Oct  4 20:50:18 2026
+ VNCSConnST:  Closing 127.0.0.1::39844: Server shutdown
+ EncodeManager: Framebuffer updates: 100
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 287 rects, 3.98654 Mpixels
+ EncodeManager:            4.48438 KiB (1:3473.35 ratio)
+ EncodeManager:     Bitmap RLE: 634 rects, 747.584 kpixels
+ EncodeManager:                 30.3613 KiB (1:96.4279 ratio)
+ EncodeManager:     Indexed RLE: 230 rects, 1.22628 Mpixels
+ EncodeManager:                  105.354 KiB (1:45.4929 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 6 rects, 40.858 kpixels
+ EncodeManager:                  22.3721 KiB (1:7.13711 ratio)
+ EncodeManager:   Total: 1.157 krects, 6.00126 Mpixels
+ EncodeManager:          162.571 KiB (1:144.281 ratio)
+ ComparingUpdateTracker: 15.9486 Mpixels in / 5.05239 Mpixels out
+ ComparingUpdateTracker: (1:3.15664 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 4234... success!
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:52:29 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth,TLSVnc -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+vncconfig: unable to open display ":1"
+xsetroot:  unable to open display ':1'
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:53:12 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Sun Oct  4 20:53:29 2026
+ Connections: Accepted: 127.0.0.1::59944
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Sun Oct  4 20:55:16 2026
+ VNCSConnST:  Closing 127.0.0.1::59944: Server shutdown
+ EncodeManager: Framebuffer updates: 9
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 13 rects, 914.764 kpixels
+ EncodeManager:            208 B (1:17592.4 ratio)
+ EncodeManager:     Bitmap RLE: 19 rects, 9.768 kpixels
+ EncodeManager:                 1.36328 KiB (1:28.1519 ratio)
+ EncodeManager:     Indexed RLE: 4 rects, 10.768 kpixels
+ EncodeManager:                  732 B (1:58.9071 ratio)
+ EncodeManager:   Total: 36 rects, 935.3 kpixels
+ EncodeManager:          2.28125 KiB (1:1601.73 ratio)
+ ComparingUpdateTracker: 143.052 kpixels in / 13.7 kpixels out
+ ComparingUpdateTracker: (1:10.4418 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 10578... success!
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Oct  4 20:55:19 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+vncconfig: unable to open display ":1"
+xsetroot:  unable to open display ':1'
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Thu Oct  8 17:07:50 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Thu Oct  8 17:08:12 2026
+ Connections: Accepted: 127.0.0.1::55588
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Thu Oct  8 17:08:23 2026
+ VNCSConnST:  Closing 127.0.0.1::55588: Clean disconnection
+ EncodeManager: Framebuffer updates: 1
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 6 rects, 913.312 kpixels
+ EncodeManager:            96 B (1:38055.4 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 8.288 kpixels
+ EncodeManager:                  406 B (1:81.7143 ratio)
+ EncodeManager:   Total: 8 rects, 921.6 kpixels
+ EncodeManager:          502 B (1:7343.62 ratio)
+ Connections: Closed: 127.0.0.1::55588
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+
+Thu Oct  8 17:13:30 2026
+ Connections: Accepted: 127.0.0.1::34238
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Thu Oct  8 18:25:52 2026
+ VNCSConnST:  Closing 127.0.0.1::34238: Clean disconnection
+ EncodeManager: Framebuffer updates: 101
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 27 rects, 940.568 kpixels
+ EncodeManager:            432 B (1:8709.71 ratio)
+ EncodeManager:     Bitmap RLE: 97 rects, 20.464 kpixels
+ EncodeManager:                 3.45312 KiB (1:23.4785 ratio)
+ EncodeManager:     Indexed RLE: 10 rects, 21.242 kpixels
+ EncodeManager:                  1.48535 KiB (1:55.9421 ratio)
+ EncodeManager:   Total: 134 rects, 982.274 kpixels
+ EncodeManager:          5.36035 KiB (1:716.106 ratio)
+ Connections: Closed: 127.0.0.1::34238
+ ComparingUpdateTracker: 490.932 kpixels in / 60.674 kpixels out
+ ComparingUpdateTracker: (1:8.09131 ratio)
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Mon Oct 12 03:03:19 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Mon Oct 12 03:03:33 2026
+ Connections: Accepted: 127.0.0.1::60948
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Mon Oct 19 16:31:50 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x30001ebba0 for event 3
+
+Mon Oct 19 16:32:00 2026
+ Connections: Accepted: 127.0.0.1::57498
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Wed Oct 28 14:59:06 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd :1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x55001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x55001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+vncconfig: unable to open display ":1"
+xsetroot:  unable to open display ':1'
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Wed Oct 28 15:00:31 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd :1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x55001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x55001ebba0 for event 3
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+vncconfig: unable to open display ":1"
+xsetroot:  unable to open display ':1'
+xfce4-session: Cannot open display: .
+Type 'xfce4-session --help' for usage.
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Wed Oct 28 15:00:39 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x55001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x55001ebba0 for event 3
+
+Wed Oct 28 15:00:50 2026
+ Connections: Accepted: 127.0.0.1::60200
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Wed Oct 28 15:19:05 2026
+ VNCSConnST:  Closing 127.0.0.1::60200: Clean disconnection
+ EncodeManager: Framebuffer updates: 24
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 12 rects, 913.708 kpixels
+ EncodeManager:            192 B (1:19036.3 ratio)
+ EncodeManager:     Bitmap RLE: 5 rects, 990 pixels
+ EncodeManager:                 161 B (1:24.9689 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 8.288 kpixels
+ EncodeManager:                  406 B (1:81.7143 ratio)
+ EncodeManager:   Total: 19 rects, 922.986 kpixels
+ EncodeManager:          759 B (1:4864.52 ratio)
+ Connections: Closed: 127.0.0.1::60200
+ ComparingUpdateTracker: 2.718 kpixels in / 1.386 kpixels out
+ ComparingUpdateTracker: (1:1.96104 ratio)
+
+Wed Oct 28 15:19:06 2026
+ Connections: Accepted: 127.0.0.1::50162
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Wed Oct 28 15:19:09 2026
+ VNCSConnST:  Closing 127.0.0.1::50162: Clean disconnection
+ EncodeManager: Framebuffer updates: 1
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 14 rects, 913.168 kpixels
+ EncodeManager:            224 B (1:16307.3 ratio)
+ EncodeManager:     Bitmap RLE: 1 rects, 144 pixels
+ EncodeManager:                 49 B (1:12 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 8.288 kpixels
+ EncodeManager:                  400 B (1:82.94 ratio)
+ EncodeManager:   Total: 17 rects, 921.6 kpixels
+ EncodeManager:          673 B (1:5477.87 ratio)
+ Connections: Closed: 127.0.0.1::50162
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+
+Wed Oct 28 15:19:12 2026
+ Connections: Accepted: 127.0.0.1::43252
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Wed Oct 28 15:24:03 2026
+ Input:       Added keysym XK_[unknown keysym] (0x000a) to keycode 230
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Wed Oct 28 15:25:02 2026
+ VNCSConnST:  Closing 127.0.0.1::43252: Server shutdown
+ EncodeManager: Framebuffer updates: 209
+ EncodeManager:   CopyRect:
+ EncodeManager:     Copies: 64 rects, 3.12523 Mpixels
+ EncodeManager:             1 KiB (1:12208.7 ratio)
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 333 rects, 1.25697 Mpixels
+ EncodeManager:            5.20312 KiB (1:944.422 ratio)
+ EncodeManager:     Bitmap RLE: 461 rects, 414.659 kpixels
+ EncodeManager:                 21.3721 KiB (1:76.0415 ratio)
+ EncodeManager:     Indexed RLE: 180 rects, 501.477 kpixels
+ EncodeManager:                  45.666 KiB (1:42.9423 ratio)
+ EncodeManager:   Total: 1.038 krects, 5.29833 Mpixels
+ EncodeManager:          73.2412 KiB (1:282.748 ratio)
+ ComparingUpdateTracker: 2.21954 Mpixels in / 1.25136 Mpixels out
+ ComparingUpdateTracker: (1:1.7737 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 15759... success!
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Thu Oct 29 16:32:46 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x55001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x55001ebba0 for event 3
+
+Thu Oct 29 16:32:56 2026
+ Connections: Accepted: 127.0.0.1::49574
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Thu Oct 29 16:33:16 2026
+ VNCSConnST:  Closing 127.0.0.1::49574: Clean disconnection
+ EncodeManager: Framebuffer updates: 3
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 7 rects, 913.378 kpixels
+ EncodeManager:            112 B (1:32621.4 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 8.288 kpixels
+ EncodeManager:                  406 B (1:81.7143 ratio)
+ EncodeManager:   Total: 9 rects, 921.666 kpixels
+ EncodeManager:          518 B (1:7117.32 ratio)
+ Connections: Closed: 127.0.0.1::49574
+ ComparingUpdateTracker: 78 pixels in / 66 pixels out
+ ComparingUpdateTracker: (1:1.18182 ratio)
+
+Thu Oct 29 16:33:47 2026
+ Connections: Accepted: 127.0.0.1::33818
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Thu Oct 29 16:34:29 2026
+ Connections: Accepted: 127.0.0.1::42168
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Thu Oct 29 16:34:30 2026
+ VNCSConnST:  Closing 127.0.0.1::33818: Clean disconnection
+ EncodeManager: Framebuffer updates: 21
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 12 rects, 915.136 kpixels
+ EncodeManager:            192 B (1:19066.1 ratio)
+ EncodeManager:     Bitmap RLE: 8 rects, 3.686 kpixels
+ EncodeManager:                 267 B (1:55.5805 ratio)
+ EncodeManager:     Indexed RLE: 3 rects, 4.104 kpixels
+ EncodeManager:                  430 B (1:38.2605 ratio)
+ EncodeManager:   Total: 23 rects, 922.926 kpixels
+ EncodeManager:          889 B (1:4152.96 ratio)
+ Connections: Closed: 127.0.0.1::33818
+ ComparingUpdateTracker: 2.562 kpixels in / 1.254 kpixels out
+ ComparingUpdateTracker: (1:2.04306 ratio)
+
+Thu Oct 29 16:34:36 2026
+ Connections: Accepted: 127.0.0.1::43782
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Thu Oct 29 16:34:37 2026
+ VNCSConnST:  Closing 127.0.0.1::42168: Clean disconnection
+ EncodeManager: Framebuffer updates: 3
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 11 rects, 913.378 kpixels
+ EncodeManager:            176 B (1:20759.3 ratio)
+ EncodeManager:     Bitmap RLE: 1 rects, 256 pixels
+ EncodeManager:                 67 B (1:15.4627 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 8.288 kpixels
+ EncodeManager:                  406 B (1:81.7143 ratio)
+ EncodeManager:   Total: 14 rects, 921.922 kpixels
+ EncodeManager:          649 B (1:5682.37 ratio)
+ Connections: Closed: 127.0.0.1::42168
+ ComparingUpdateTracker: 78 pixels in / 66 pixels out
+ ComparingUpdateTracker: (1:1.18182 ratio)
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Thu Oct 29 16:34:55 2026
+ VNCSConnST:  Closing 127.0.0.1::43782: Server shutdown
+ EncodeManager: Framebuffer updates: 11
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 13 rects, 911.676 kpixels
+ EncodeManager:            208 B (1:17533 ratio)
+ EncodeManager:     Bitmap RLE: 4 rects, 3.088 kpixels
+ EncodeManager:                 251 B (1:49.4024 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 8.882 kpixels
+ EncodeManager:                  405 B (1:87.7827 ratio)
+ EncodeManager:   Total: 19 rects, 923.646 kpixels
+ EncodeManager:          864 B (1:4276.4 ratio)
+ ComparingUpdateTracker: 2.166 kpixels in / 1.902 kpixels out
+ ComparingUpdateTracker: (1:1.1388 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 29920... success!
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Thu Oct 29 16:36:32 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'localhost:1 (kali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/kali/.config/tigervnc/passwd localhost:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Multiple symbols for level 1/group 1 on key <FK23>
+>                   Using F23, ignoring XF86TouchpadOff
+> Warning:          Symbol map for key <FK23> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Symbol map for key <FK24> redefined
+>                   Using last definition for conflicting fields
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOn
+> Warning:          Could not resolve keysym XF86ElectronicPrivacyScreenOff
+> Warning:          Could not resolve keysym XF86ActionOnSelection
+> Warning:          Could not resolve keysym XF86ContextualInsert
+> Warning:          Could not resolve keysym XF86ContextualQuery
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x55001ebba0 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x55001ebba0 for event 3
+
+Thu Oct 29 16:36:39 2026
+ Connections: Accepted: 127.0.0.1::47330
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+
+Thu Oct 29 16:37:59 2026
+ VNCSConnST:  Closing 127.0.0.1::47330: Server shutdown
+ EncodeManager: Framebuffer updates: 79
+ EncodeManager:   CopyRect:
+ EncodeManager:     Copies: 52 rects, 2.66214 Mpixels
+ EncodeManager:             832 B (1:12799.5 ratio)
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 246 rects, 1.18994 Mpixels
+ EncodeManager:            3.84375 KiB (1:1210.04 ratio)
+ EncodeManager:     Bitmap RLE: 345 rects, 322.548 kpixels
+ EncodeManager:                 15.4668 KiB (1:81.7232 ratio)
+ EncodeManager:     Indexed RLE: 143 rects, 436.392 kpixels
+ EncodeManager:                  39.1816 KiB (1:43.5493 ratio)
+ EncodeManager:   Total: 786 rects, 4.61102 Mpixels
+ EncodeManager:          59.3047 KiB (1:303.872 ratio)
+ ComparingUpdateTracker: 1.76205 Mpixels in / 1.02728 Mpixels out
+ ComparingUpdateTracker: (1:1.71526 ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 31356... success!

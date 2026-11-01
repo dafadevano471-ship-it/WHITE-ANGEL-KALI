@@ -1,0 +1,926 @@
+Xsession: X session started for kali at Sun Oct  4 18:05:04 UTC 2026
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting DISPLAY=:1
+localuser:kali being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting LESS_TERMCAP_se=[0m
+dbus-update-activation-environment: setting VNCDESKTOP=localhost:1 (kali)
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting MAIL=/var/mail/kali
+dbus-update-activation-environment: setting LESS_TERMCAP_ue=[0m
+dbus-update-activation-environment: setting USER=kali
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting SHLVL=2
+dbus-update-activation-environment: setting HOME=/home/kali
+dbus-update-activation-environment: setting OLDPWD=/root
+dbus-update-activation-environment: setting MANROFFOPT=-c
+dbus-update-activation-environment: setting LESS_TERMCAP_so=[01;33m
+dbus-update-activation-environment: setting NMAP_PRIVILEGED=
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/tmp/dbus-GKxX9W6dHq,guid=72eb0a8eeaafa42a092cf7796ac29550
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=kali
+dbus-update-activation-environment: setting LESS_TERMCAP_us=[1;32m
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting _=/etc/X11/Xsession
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting TERM=xterm-256color
+dbus-update-activation-environment: setting PATH=/home/kali/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting DISPLAY=:1
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.7z=01;31:*.ace=01;31:*.alz=01;31:*.apk=01;31:*.arc=01;31:*.arj=01;31:*.bz=01;31:*.bz2=01;31:*.cab=01;31:*.cpio=01;31:*.crate=01;31:*.deb=01;31:*.drpm=01;31:*.dwm=01;31:*.dz=01;31:*.ear=01;31:*.egg=01;31:*.esd=01;31:*.gz=01;31:*.jar=01;31:*.lha=01;31:*.lrz=01;31:*.lz=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.lzo=01;31:*.pyz=01;31:*.rar=01;31:*.rpm=01;31:*.rz=01;31:*.sar=01;31:*.swm=01;31:*.t7z=01;31:*.tar=01;31:*.taz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tgz=01;31:*.tlz=01;31:*.txz=01;31:*.tz=01;31:*.tzo=01;31:*.tzst=01;31:*.udeb=01;31:*.war=01;31:*.whl=01;31:*.wim=01;31:*.xz=01;31:*.z=01;31:*.zip=01;31:*.zoo=01;31:*.zst=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.jxl=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90::ow=30;44:
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LESS_TERMCAP_mb=[1;31m
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/home/kali/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting LESS_TERMCAP_md=[1;36m
+dbus-update-activation-environment: setting PWD=/home/kali
+dbus-update-activation-environment: setting LESS_TERMCAP_me=[0m
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :1
+
+(xfce4-session:31429): libxfce4util-WARNING **: 18:05:05.854: Failed to get a systemd proxy: Could not connect: No such file or directory
+** Message: 18:05:05.925: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 18:05:05.929: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 18:05:05.930: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 18:05:05.932: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: Owner of /tmp/.ICE-unix should be set to root
+xfce4-session-Message: 18:05:05.980: SSH authentication agent is already running
+** Message: 18:05:08.360: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:31536): xfwm4-WARNING **: 18:05:09.057: Unsupported GL renderer (llvmpipe (LLVM 21.1.8, 128 bits)).
+
+(xfce4-panel:31733): Gtk-WARNING **: 18:05:11.367: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+**
+Wnck:ERROR:../libwnck/xutils.c:1510:default_icon_at_size: assertion failed: (base)
+Bail out! Wnck:ERROR:../libwnck/xutils.c:1510:default_icon_at_size: assertion failed: (base)
+
+(xfwm4:31536): libxfce4ui-WARNING **: 18:05:13.061: ICE I/O Error
+
+(xfwm4:31536): libxfce4ui-WARNING **: 18:05:13.064: Disconnected from session manager.
+
+(xfsettingsd:31699): libxfce4ui-WARNING **: 18:05:13.064: ICE I/O Error
+
+(xfsettingsd:31699): libxfce4ui-WARNING **: 18:05:13.066: Disconnected from session manager.
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:14.174: Error: The connection is closed
+
+
+(wrapper-2.0:31790): GLib-GIO-CRITICAL **: 18:05:14.208: Error while sending AddMatch() message: The connection is closed
+
+(wrapper-2.0:31790): GVFS-WARNING **: 18:05:14.211: Error creating proxy: Error calling StartServiceByName for org.gtk.vfs.Daemon: The connection is closed (g-io-error-quark, 18)
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:14.716: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:14.779: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:14.825: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:14.868: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:14.914: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:14.965: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.015: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.063: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.113: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.169: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.223: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.281: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.331: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.379: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.428: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.476: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.525: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.575: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.623: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.672: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.729: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.783: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.835: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.898: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:15.964: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.028: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.090: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.147: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.201: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.256: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.311: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.372: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.437: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.488: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.538: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.594: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.647: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.694: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.742: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.786: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.831: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.880: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.925: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:16.968: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:17.010: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:17.056: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:17.099: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:17.147: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:17.197: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:17.246: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:17.293: Error: The connection is closed
+
+
+(xfdesktop:31792): GVFS-WARNING **: 18:05:17.342: Error: The connection is closed
+
+Xsession: X session started for kali at Sun Oct  4 18:13:48 UTC 2026
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting DISPLAY=:1
+localuser:kali being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting LESS_TERMCAP_se=[0m
+dbus-update-activation-environment: setting VNCDESKTOP=localhost:1 (kali)
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting MAIL=/var/mail/kali
+dbus-update-activation-environment: setting LESS_TERMCAP_ue=[0m
+dbus-update-activation-environment: setting USER=kali
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting SHLVL=2
+dbus-update-activation-environment: setting HOME=/home/kali
+dbus-update-activation-environment: setting OLDPWD=/root
+dbus-update-activation-environment: setting MANROFFOPT=-c
+dbus-update-activation-environment: setting LESS_TERMCAP_so=[01;33m
+dbus-update-activation-environment: setting NMAP_PRIVILEGED=
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/tmp/dbus-zfb8EDUILw,guid=13706035fca53062672518ab6ac2975d
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=kali
+dbus-update-activation-environment: setting LESS_TERMCAP_us=[1;32m
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting _=/etc/X11/Xsession
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting TERM=xterm-256color
+dbus-update-activation-environment: setting PATH=/home/kali/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting DISPLAY=:1
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.7z=01;31:*.ace=01;31:*.alz=01;31:*.apk=01;31:*.arc=01;31:*.arj=01;31:*.bz=01;31:*.bz2=01;31:*.cab=01;31:*.cpio=01;31:*.crate=01;31:*.deb=01;31:*.drpm=01;31:*.dwm=01;31:*.dz=01;31:*.ear=01;31:*.egg=01;31:*.esd=01;31:*.gz=01;31:*.jar=01;31:*.lha=01;31:*.lrz=01;31:*.lz=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.lzo=01;31:*.pyz=01;31:*.rar=01;31:*.rpm=01;31:*.rz=01;31:*.sar=01;31:*.swm=01;31:*.t7z=01;31:*.tar=01;31:*.taz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tgz=01;31:*.tlz=01;31:*.txz=01;31:*.tz=01;31:*.tzo=01;31:*.tzst=01;31:*.udeb=01;31:*.war=01;31:*.whl=01;31:*.wim=01;31:*.xz=01;31:*.z=01;31:*.zip=01;31:*.zoo=01;31:*.zst=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.jxl=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90::ow=30;44:
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LESS_TERMCAP_mb=[1;31m
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/home/kali/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting LESS_TERMCAP_md=[1;36m
+dbus-update-activation-environment: setting PWD=/home/kali
+dbus-update-activation-environment: setting LESS_TERMCAP_me=[0m
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :1
+
+(xfce4-session:7724): libxfce4util-WARNING **: 18:13:51.613: Failed to get a systemd proxy: Could not connect: No such file or directory
+** Message: 18:13:51.751: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 18:13:51.754: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 18:13:51.757: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 18:13:51.759: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: Owner of /tmp/.ICE-unix should be set to root
+xfce4-session-Message: 18:13:51.984: SSH authentication agent is already running
+** Message: 18:13:56.231: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:7848): xfwm4-WARNING **: 18:13:56.559: Unsupported GL renderer (llvmpipe (LLVM 21.1.8, 128 bits)).
+
+(xfce4-panel:8044): Gtk-WARNING **: 18:13:59.720: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+**
+Wnck:ERROR:../libwnck/xutils.c:1510:default_icon_at_size: assertion failed: (base)
+Bail out! Wnck:ERROR:../libwnck/xutils.c:1510:default_icon_at_size: assertion failed: (base)
+
+(xfsettingsd:8007): libxfce4ui-WARNING **: 18:14:01.517: ICE I/O Error
+
+(xfwm4:7848): libxfce4ui-WARNING **: 18:14:01.516: ICE I/O Error
+
+(xfsettingsd:8007): libxfce4ui-WARNING **: 18:14:01.520: Disconnected from session manager.
+
+(xfwm4:7848): libxfce4ui-WARNING **: 18:14:01.521: Disconnected from session manager.
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:02.413: Error: The connection is closed
+
+
+(wrapper-2.0:8098): GLib-GIO-CRITICAL **: 18:14:02.437: Error while sending AddMatch() message: The connection is closed
+
+(wrapper-2.0:8098): GVFS-WARNING **: 18:14:02.441: Error creating proxy: Error calling StartServiceByName for org.gtk.vfs.Daemon: The connection is closed (g-io-error-quark, 18)
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:02.791: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:02.862: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:02.926: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:02.980: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:03.053: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:03.123: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:03.184: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:03.295: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:03.361: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:03.423: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:03.475: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:03.572: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:03.723: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:03.817: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:03.924: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.013: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.116: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.216: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.278: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.345: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.423: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.485: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.543: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.610: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.667: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.740: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.798: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.862: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.924: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:04.997: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.101: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.215: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.281: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.326: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.374: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.426: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.473: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.520: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.570: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.628: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.697: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.782: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.876: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:05.953: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:06.036: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:06.108: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:06.231: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:06.343: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:06.444: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:06.523: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:06.592: Error: The connection is closed
+
+
+(xfdesktop:8102): GVFS-WARNING **: 18:14:06.662: Error: The connection is closed
+
+Xsession: X session started for kali at Sun Oct  4 18:14:23 UTC 2026
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting DISPLAY=:1
+localuser:kali being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting LESS_TERMCAP_se=[0m
+dbus-update-activation-environment: setting VNCDESKTOP=localhost:1 (kali)
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting MAIL=/var/mail/kali
+dbus-update-activation-environment: setting LESS_TERMCAP_ue=[0m
+dbus-update-activation-environment: setting USER=kali
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting SHLVL=2
+dbus-update-activation-environment: setting HOME=/home/kali
+dbus-update-activation-environment: setting OLDPWD=/root
+dbus-update-activation-environment: setting MANROFFOPT=-c
+dbus-update-activation-environment: setting LESS_TERMCAP_so=[01;33m
+dbus-update-activation-environment: setting NMAP_PRIVILEGED=
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/tmp/dbus-KfakIK8OKC,guid=495ea1a6e4acaf0dabf78eef6ac29780
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=kali
+dbus-update-activation-environment: setting LESS_TERMCAP_us=[1;32m
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting _=/etc/X11/Xsession
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting TERM=xterm-256color
+dbus-update-activation-environment: setting PATH=/home/kali/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting DISPLAY=:1
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.7z=01;31:*.ace=01;31:*.alz=01;31:*.apk=01;31:*.arc=01;31:*.arj=01;31:*.bz=01;31:*.bz2=01;31:*.cab=01;31:*.cpio=01;31:*.crate=01;31:*.deb=01;31:*.drpm=01;31:*.dwm=01;31:*.dz=01;31:*.ear=01;31:*.egg=01;31:*.esd=01;31:*.gz=01;31:*.jar=01;31:*.lha=01;31:*.lrz=01;31:*.lz=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.lzo=01;31:*.pyz=01;31:*.rar=01;31:*.rpm=01;31:*.rz=01;31:*.sar=01;31:*.swm=01;31:*.t7z=01;31:*.tar=01;31:*.taz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tgz=01;31:*.tlz=01;31:*.txz=01;31:*.tz=01;31:*.tzo=01;31:*.tzst=01;31:*.udeb=01;31:*.war=01;31:*.whl=01;31:*.wim=01;31:*.xz=01;31:*.z=01;31:*.zip=01;31:*.zoo=01;31:*.zst=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.jxl=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90::ow=30;44:
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LESS_TERMCAP_mb=[1;31m
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/home/kali/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting LESS_TERMCAP_md=[1;36m
+dbus-update-activation-environment: setting PWD=/home/kali
+dbus-update-activation-environment: setting LESS_TERMCAP_me=[0m
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :1
+
+(xfce4-session:8658): libxfce4util-WARNING **: 18:14:25.881: Failed to get a systemd proxy: Could not connect: No such file or directory
+** Message: 18:14:25.950: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 18:14:25.953: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 18:14:25.954: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 18:14:25.955: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: Owner of /tmp/.ICE-unix should be set to root
+xfce4-session-Message: 18:14:26.032: SSH authentication agent is already running
+** Message: 18:14:28.847: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:8790): xfwm4-WARNING **: 18:14:29.168: Unsupported GL renderer (llvmpipe (LLVM 21.1.8, 128 bits)).
+
+(xfce4-panel:9005): Gtk-WARNING **: 18:14:32.142: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+**
+Wnck:ERROR:../libwnck/xutils.c:1510:default_icon_at_size: assertion failed: (base)
+Bail out! Wnck:ERROR:../libwnck/xutils.c:1510:default_icon_at_size: assertion failed: (base)
+
+(xfsettingsd:8963): libxfce4ui-WARNING **: 18:14:33.800: ICE I/O Error
+
+(xfwm4:8790): libxfce4ui-WARNING **: 18:14:33.798: ICE I/O Error
+
+(xfsettingsd:8963): libxfce4ui-WARNING **: 18:14:33.803: Disconnected from session manager.
+
+(xfwm4:8790): libxfce4ui-WARNING **: 18:14:33.803: Disconnected from session manager.
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:34.759: Error: The connection is closed
+
+
+(wrapper-2.0:9064): GLib-GIO-CRITICAL **: 18:14:34.796: Error while sending AddMatch() message: The connection is closed
+
+(wrapper-2.0:9064): GVFS-WARNING **: 18:14:34.799: Error creating proxy: Error calling StartServiceByName for org.gtk.vfs.Daemon: The connection is closed (g-io-error-quark, 18)
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.007: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.062: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.126: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.191: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.273: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.332: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.401: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.457: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.517: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.572: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.628: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.674: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.721: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.783: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.845: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.901: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:35.959: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.025: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.094: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.181: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.264: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.347: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.439: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.513: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.580: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.628: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.683: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.752: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.821: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.863: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.902: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.943: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:36.995: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.046: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.085: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.125: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.163: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.202: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.241: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.281: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.323: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.362: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.406: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.453: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.496: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.545: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.604: Error: The connection is closed
+
+
+(xfdesktop:9069): GVFS-WARNING **: 18:14:37.653: Error: The connection is closed
+
+Xsession: X session started for kali at Sun Oct  4 18:14:57 UTC 2026
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting DISPLAY=:1
+localuser:kali being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting LESS_TERMCAP_se=[0m
+dbus-update-activation-environment: setting VNCDESKTOP=localhost:1 (kali)
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting MAIL=/var/mail/kali
+dbus-update-activation-environment: setting LESS_TERMCAP_ue=[0m
+dbus-update-activation-environment: setting USER=kali
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting SHLVL=2
+dbus-update-activation-environment: setting HOME=/home/kali
+dbus-update-activation-environment: setting OLDPWD=/root
+dbus-update-activation-environment: setting MANROFFOPT=-c
+dbus-update-activation-environment: setting LESS_TERMCAP_so=[01;33m
+dbus-update-activation-environment: setting NMAP_PRIVILEGED=
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/tmp/dbus-vVDyAZryUY,guid=cabbe1847b37f7d8f0ab1efa6ac297a1
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=kali
+dbus-update-activation-environment: setting LESS_TERMCAP_us=[1;32m
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting _=/etc/X11/Xsession
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting TERM=xterm-256color
+dbus-update-activation-environment: setting PATH=/home/kali/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting DISPLAY=:1
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.7z=01;31:*.ace=01;31:*.alz=01;31:*.apk=01;31:*.arc=01;31:*.arj=01;31:*.bz=01;31:*.bz2=01;31:*.cab=01;31:*.cpio=01;31:*.crate=01;31:*.deb=01;31:*.drpm=01;31:*.dwm=01;31:*.dz=01;31:*.ear=01;31:*.egg=01;31:*.esd=01;31:*.gz=01;31:*.jar=01;31:*.lha=01;31:*.lrz=01;31:*.lz=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.lzo=01;31:*.pyz=01;31:*.rar=01;31:*.rpm=01;31:*.rz=01;31:*.sar=01;31:*.swm=01;31:*.t7z=01;31:*.tar=01;31:*.taz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tgz=01;31:*.tlz=01;31:*.txz=01;31:*.tz=01;31:*.tzo=01;31:*.tzst=01;31:*.udeb=01;31:*.war=01;31:*.whl=01;31:*.wim=01;31:*.xz=01;31:*.z=01;31:*.zip=01;31:*.zoo=01;31:*.zst=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.jxl=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90::ow=30;44:
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LESS_TERMCAP_mb=[1;31m
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/home/kali/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting LESS_TERMCAP_md=[1;36m
+dbus-update-activation-environment: setting PWD=/home/kali
+dbus-update-activation-environment: setting LESS_TERMCAP_me=[0m
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :1
+
+(xfce4-session:9537): libxfce4util-WARNING **: 18:14:59.181: Failed to get a systemd proxy: Could not connect: No such file or directory
+** Message: 18:14:59.254: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 18:14:59.257: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 18:14:59.258: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 18:14:59.260: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: Owner of /tmp/.ICE-unix should be set to root
+xfce4-session-Message: 18:14:59.334: SSH authentication agent is already running
+** Message: 18:15:02.260: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:9647): xfwm4-WARNING **: 18:15:02.552: Unsupported GL renderer (llvmpipe (LLVM 21.1.8, 128 bits)).
+
+(xfce4-panel:9849): Gtk-WARNING **: 18:15:05.790: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+**
+Wnck:ERROR:../libwnck/xutils.c:1510:default_icon_at_size: assertion failed: (base)
+Bail out! Wnck:ERROR:../libwnck/xutils.c:1510:default_icon_at_size: assertion failed: (base)
+
+(xfwm4:9647): libxfce4ui-WARNING **: 18:15:07.727: ICE I/O Error
+
+(xfsettingsd:9805): libxfce4ui-WARNING **: 18:15:07.728: ICE I/O Error
+
+(xfsettingsd:9805): libxfce4ui-WARNING **: 18:15:07.730: Disconnected from session manager.
+
+(xfwm4:9647): libxfce4ui-WARNING **: 18:15:07.729: Disconnected from session manager.
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:08.766: Error: The connection is closed
+
+
+(wrapper-2.0:9907): GLib-GIO-CRITICAL **: 18:15:08.822: Error while sending AddMatch() message: The connection is closed
+
+(wrapper-2.0:9907): GVFS-WARNING **: 18:15:08.825: Error creating proxy: Error calling StartServiceByName for org.gtk.vfs.Daemon: The connection is closed (g-io-error-quark, 18)
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.145: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.195: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.244: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.292: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.337: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.379: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.435: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.486: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.527: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.567: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.607: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.651: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.699: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.738: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.783: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.828: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.877: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.921: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:09.970: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.017: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.059: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.107: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.176: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.235: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.287: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.330: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.375: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.419: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.464: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.510: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.551: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.594: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.645: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.712: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.787: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.856: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.922: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:10.977: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.038: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.105: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.169: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.232: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.290: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.348: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.436: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.535: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.633: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.715: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.787: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.843: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:11.939: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:12.016: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:12.068: Error: The connection is closed
+
+
+(xfdesktop:9912): GVFS-WARNING **: 18:15:12.137: Error: The connection is closed
+

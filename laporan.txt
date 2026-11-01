@@ -1,0 +1,31 @@
+Title: Open Redirect Vulnerability
+
+Severity: Medium
+
+URL: https://httpbin.org/redirect-to?url=https://evil.com
+
+Description:
+Saya menemukan bug Open Redirect. Website memperbolehkan
+parameter url diarahkan ke domain luar tanpa validasi.
+
+Steps to Reproduce:
+1. Buka URL ini:
+https://httpbin.org/redirect-to?url=https://evil.com
+2. Perhatikan response Header
+3. Server mengembalikan HTTP 302 dengan Location: https://evil.com
+
+Proof (dari curl):
+HTTP/2 302
+location: https://evil.com
+
+Impact:
+Penyerang bisa membuat link yang terlihat aman tapi
+mengalihkan korban ke website phishing untuk mencuri
+password / cookie.
+
+Mitigation:
+Validasi whitelist domain yang boleh di-redirect.
+
+Found by: White Angel - Merauke, Papua
+0
+
