@@ -1,2 +1,2 @@
-# WHITE ANGEL TIMIKA - PAPUA TENGAH DEFENDER
-Defender dari Timika untuk Indonesia Aman! v4.1
+# WHITE ANGEL KALI v4.1 - Merauke Defender
+Auto Anti-Hacker Mode 1 HP - Auto-Hapus + Auto-Lapor
